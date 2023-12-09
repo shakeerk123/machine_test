@@ -32,7 +32,7 @@ project-root/
 │
 ├── pubspec.yaml
 ├── README.md
-└── ...
+└── assets/screenshots
 
 
 ### Prerequisites
