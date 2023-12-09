@@ -1,16 +1,31 @@
-# machine_test
 
-A new Flutter project.
+
+# Movie App
+
+A Flutter app that allows users to explore and discover information about movies.
+
+
+## Overview
+
+Movie App is a mobile application developed with Flutter that provides users with a curated list of movies. Users can view details about each movie, including ratings, release dates, and overviews.
+
+## Features
+
+- Browse a list of popular movies
+- View detailed information about each movie
+- Search for movies by title
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter installed (version 3.16)
+- Dart installed (version 2.5)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/shakeerk123/machine_test.git
