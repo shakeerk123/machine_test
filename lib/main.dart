@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:machine_test/app/views/bottombar/main_page.dart';
-import 'package:machine_test/utils/colors.dart';
+import 'package:machine_test/app/utils/colors.dart';
 
 void main() async {
   runApp(const MyApp());

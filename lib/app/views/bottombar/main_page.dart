@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import 'package:machine_test/app/controller/main_controller.dart';
 import 'package:machine_test/app/views/home/home_screen.dart';
 import 'package:machine_test/app/views/search/search_screen.dart';
-import 'package:machine_test/utils/colors.dart';
+import 'package:machine_test/app/utils/colors.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({super.key});

@@ -5,8 +5,8 @@ import 'package:get/get.dart';
 import 'package:machine_test/app/controller/main_controller.dart';
 import 'package:machine_test/app/models/movie_model.dart';
 import 'package:machine_test/app/views/details/details_screen.dart';
-import 'package:machine_test/utils/api_const.dart';
-import 'package:machine_test/utils/colors.dart';
+import 'package:machine_test/app/utils/api_const.dart';
+import 'package:machine_test/app/utils/colors.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);

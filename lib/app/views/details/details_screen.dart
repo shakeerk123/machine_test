@@ -6,7 +6,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 import 'package:machine_test/app/controller/main_controller.dart';
 import 'package:machine_test/app/models/movie_model.dart';
-import 'package:machine_test/utils/api_const.dart';
+import 'package:machine_test/app/utils/api_const.dart';
 
 class DetailsScreen extends StatelessWidget {
   DetailsScreen({Key? key, required this.movie}) : super(key: key);

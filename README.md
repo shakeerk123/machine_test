@@ -18,10 +18,36 @@ Movie App is a mobile application developed with Flutter that provides users wit
 
 ## Getting Started
 
+project-root/
+│
+├── lib/
+│   └──apps
+│       ├── views/
+│       ├── controller/
+│       ├── models/
+│       ├── utils/
+│       ├── widgets/
+│       ├── api/
+│       └── main.dart
+│
+├── pubspec.yaml
+├── README.md
+└── ...
+
+
 ### Prerequisites
 
 - Flutter installed (version 3.16)
 - Dart installed (version 2.5)
+
+## dependencies:
+
+ - get: ^4.6.6
+ - http: ^1.1.0
+ - google_fonts: ^6.1.0
+ - transparent_image: ^2.0.1
+ - cached_network_image: ^3.3.0
+ - intl: ^0.19.0
 
 ### Installation
 

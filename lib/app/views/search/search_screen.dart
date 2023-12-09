@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:machine_test/widgets/search_widgets/search_grid.dart';
+import 'package:machine_test/app/widgets/search_widgets/search_grid.dart';
 import '../../controller/search_controller.dart';
 
 class SearchScreen extends StatelessWidget {

@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:machine_test/app/models/movie_model.dart';
-import 'package:machine_test/utils/api_const.dart';
+import 'package:machine_test/app/utils/api_const.dart';
 
 class ApiClient extends GetxController {
   final _hindiLink =
